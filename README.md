@@ -17,5 +17,6 @@ US-1C1G：[https://qkk.one](https://app.cloudcone.com.cn/vps/1/create?ref=11052&
 ### US 2C1G $13.99/Year
 [https://qkk.one](https://app.cloudcone.com.cn/vps/282/create?ref=11052&token=pre-bf-24-ssd-vps-1)
 
-
+## 家宽IP
+[https://qkk.one](https://proxy302.saaslink.net/0xzrKb)
 
