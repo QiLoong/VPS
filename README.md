@@ -2,12 +2,14 @@
 https://qkk.one
 
 ## VPS推荐  
-Lightnode：[https://ichochy.com/](https://ichochy.com/posts/vps/20240920.html)   
-Megalayer：[https://ichochy.com/](https://ichochy.com/posts/vps/20240920.html)   
-CloudCone：[https://ichochy.com/](https://ichochy.com/posts/vps/20240920.html)    
-V.PS：[https://v.ps](https://vps.hosting/?affid=1504)  
-
-连接世界(送3G)：[https://qkk.one](https://lt.uniss.me/invite/y0qT3LOe)
+### US
+CloudCone：[1C1G-$20.99/Year](https://app.cloudcone.com.cn/?ref=11052)
+### 马来西亚、泰国、菲律宾、新加坡、亚太……
+Lightnode：[1C2G-$7.71/Month](https://www.lightnode.com/?inviteCode=JJI33F&promoteWay=LINK)   
+### 菲律宾、新加坡
+Megalayer：[1C1G-¥49.5/Month](https://account.megalayer.net/aff.php?aff=1678)   
+### 英、德、美
+V.PS：[2C1G-€6.95/Month](https://vps.hosting/?affid=1504)  
 
 ## US VPS 
 [1C1G-$20.99/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
@@ -15,12 +17,16 @@ V.PS：[https://v.ps](https://vps.hosting/?affid=1504)
 
 
 ## 活动 US VPS(过期失效）
-[1C512MB-10.99/Year](https://app.cloudcone.com.cn/vps/291/create?ref=11052&token=bf-24-ssd-vps-1)  
-[2C1G-12.99/Year](https://app.cloudcone.com.cn/vps/292/create?ref=11052&token=bf-24-ssd-vps-2)  
-[6C2G-20.88/Year](https://app.cloudcone.com.cn/vps/293/create?ref=11052&token=bf-24-ssd-vps-3) 
+[1C512MB-$10.99/Year](https://app.cloudcone.com.cn/vps/291/create?ref=11052&token=bf-24-ssd-vps-1)  
+[2C1G-$12.99/Year](https://app.cloudcone.com.cn/vps/292/create?ref=11052&token=bf-24-ssd-vps-2)  
+[6C2G-$20.88/Year](https://app.cloudcone.com.cn/vps/293/create?ref=11052&token=bf-24-ssd-vps-3) 
 
 
 ## 家宽IP
-[家宽IP-1号](https://proxy302.saaslink.net/0xzrKb)  
-[家宽IP-2号](https://www.webshare.io/?referral_code=8ig2xddbuniv)  
-[家宽IP-3号](https://in.mesl.cloud/#/register?code=EL6sXs29)  
+[家宽IP- Proxy303](https://proxy302.saaslink.net/0xzrKb)  
+[家宽IP-WebShare(单IP$8/Year)](https://www.webshare.io/?referral_code=8ig2xddbuniv)  
+***
+
+## 其它
+[MESL(家宽IP)](https://in.mesl.cloud/#/register?code=EL6sXs29)  
+[雷霆-连接世界(送3G)](https://lt.uniss.me/invite/y0qT3LOe)  
