@@ -5,7 +5,7 @@ https://qkk.one
 ### US
 CloudCone：[1C1G-$20.99/Year](https://app.cloudcone.com.cn/?ref=11052)  
 
-### 泰国、菲律宾、新加坡、马来西亚、香港、台湾、亚太……
+### 泰国、菲律宾、马来西亚、新加坡、香港、台湾、亚太……
 Lightnode：[1C2G-$7.71/Month](https://www.lightnode.com/?inviteCode=JJI33F&promoteWay=LINK)   
 
 ### 香港、台湾、新加坡、日本、美国、英国、韩国
@@ -29,9 +29,10 @@ V.PS：[2C1G-€6.95/Month](https://vps.hosting/?affid=1504)
 
 
 ## 家宽IP
-[家宽IP- Proxy303](https://proxy302.saaslink.net/0xzrKb)  
+[家宽IP- Proxy303($5/G)](https://proxy302.saaslink.net/0xzrKb)  
 [家宽IP-WebShare(单IP$8/Year)](https://www.webshare.io/?referral_code=8ig2xddbuniv)  
 ***
 ## 其它
 [MESL(家宽IP)](https://in.mesl.cloud/#/register?code=EL6sXs29)  
-[雷霆-连接世界(送3G)](https://lt.uniss.me/invite/y0qT3LOe)  
+[雷霆-连接世界(送3G)](https://lt.uniss.me/invite/y0qT3LOe)   
+[宝可梦云-每月免费60G](https://web2.52pokemon.cc/register?code=ROCoBOxQ)  十二月兑换码：**黑五luck**  
