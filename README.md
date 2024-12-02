@@ -3,7 +3,7 @@ https://qkk.one
 
 ## VPS推荐  
 ### US
-CloudCone：[1C1G-$20.99/Year](https://app.cloudcone.com.cn/?ref=11052)  
+CloudCone：[1C1G-$20.99/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
 
 ### 泰国、菲律宾、马来西亚、新加坡、香港、台湾、亚太……
 Lightnode：[1C2G-$7.71/Month](https://www.lightnode.com/?inviteCode=JJI33F&promoteWay=LINK)   
