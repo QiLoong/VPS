@@ -27,7 +27,3 @@ V.PS：[2C1G-€6.95/Month](https://vps.hosting/?affid=1504)
 [2C1G-$12.99/Year](https://app.cloudcone.com.cn/vps/292/create?ref=11052&token=bf-24-ssd-vps-2)  
 [6C2G-$20.88/Year](https://app.cloudcone.com.cn/vps/293/create?ref=11052&token=bf-24-ssd-vps-3) 
 
-
-## 家宽IP
-[家宽IP- Proxy303($5/G)](https://proxy302.saaslink.net/0xzrKb)  
-[家宽IP-WebShare(单IP$8/Year)](https://www.webshare.io/?referral_code=8ig2xddbuniv)  
