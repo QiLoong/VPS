@@ -23,11 +23,5 @@ CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=1105
 
 CloudCone：[2C2G-$35.88/Year](https://app.cloudcone.com.cn/vps/2/create?ref=11052&token=vps-2)
 
-
-## 活动 US VPS(过期失效）
-[1C512MB-$10.99/Year](https://app.cloudcone.com.cn/vps/291/create?ref=11052&token=bf-24-ssd-vps-1)  
-[2C1G-$12.99/Year](https://app.cloudcone.com.cn/vps/292/create?ref=11052&token=bf-24-ssd-vps-2)  
-[6C2G-$20.88/Year](https://app.cloudcone.com.cn/vps/293/create?ref=11052&token=bf-24-ssd-vps-3) 
-
-
-
+## 域名
+NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
