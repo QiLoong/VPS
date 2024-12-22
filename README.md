@@ -8,9 +8,13 @@ CloudCone：[1C1G-$1.8/Mouth](https://app.cloudcone.com.cn/vps/1/create?ref=1105
 ### 泰国、印尼、菲律宾、马来西亚、亚太……
 Lightnode：[1C2G-$7.71/Month](https://www.lightnode.com/?inviteCode=JJI33F&promoteWay=LINK)   
 
+
 ### 香港、台湾、新加坡、日本、美国、英国、韩国
 Akile：[1C512MB-¥4.99/Month](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=2&planId=864&aff_code=d73a8ecf-8cf7-43c5-b024-aa50b76ec8b5)  
 Akile：[1C1G-¥9.99/Month](https://akile.io/register?aff_code=d73a8ecf-8cf7-43c5-b024-aa50b76ec8b5)
+
+### 菲律宾、泰国、香港、台湾、美国、英国、法国
+lightlayer：[1C1G-$3/Month](https://account.lightlayer.net/?affid=171)
 
 ### 菲律宾、新加坡、香港
 Megalayer：[1C1G-¥49.5/Month](https://account.megalayer.net/aff.php?aff=1678)   
