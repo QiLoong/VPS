@@ -1,6 +1,11 @@
 # VPS
 https://qkk.one
 
+
+## 域名
+NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
+
+
 ## VPS推荐  
 ### US VPS
 CloudCone：[1C1G-$1.8/Mouth](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
@@ -27,5 +32,10 @@ CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=1105
 
 CloudCone：[2C2G-$35.88/Year](https://app.cloudcone.com.cn/vps/2/create?ref=11052&token=vps-2)
 
-## 域名
-NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
+
+## 圣诞节活动 US VPS
+CloudCone：[2C1G-$12.99/Year](https://app.cloudcone.com.cn/vps/349/create?ref=11052&token=xmas-24-ssd-vps-1)  
+
+CloudCone：[3C2G-$21.99/Year](https://app.cloudcone.com.cn/vps/350/create?ref=11052&token=xmas-24-ssd-vps-2)
+
+
