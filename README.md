@@ -1,7 +1,7 @@
 # VPS
 https://qkk.one
 
-##公众号
+## 公众号
 iChochy
 
 ## 域名
