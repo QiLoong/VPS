@@ -1,8 +1,8 @@
 # VPS
 https://qkk.one
 
-
-WX：LoveChochy
+##公众号
+iChochy
 
 ## 域名
 NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
