@@ -1,13 +1,15 @@
 # VPS
 https://qkk.one  
 公众号：iChochy  
+
 ---
 
 ## VPS推荐  
 ### 美国
-CloudCone：[1C1G20G-$5.2/Mouth](https://app.cloudcone.com.cn/compute/create?ref=11052)  
-CloudCone：[1C2G40G-$7.28/Mouth](https://app.cloudcone.com.cn/compute/create?ref=11052)  
-
+#### Month
+CloudCone：[1C1G20G-$5.2/Month](https://app.cloudcone.com.cn/compute/create?ref=11052)  
+CloudCone：[1C2G40G-$7.28/Month](https://app.cloudcone.com.cn/compute/create?ref=11052)  
+#### Year
 CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
 
 ### 泰国、印尼、菲律宾、马来西亚、亚太……
@@ -31,8 +33,9 @@ V.PS：[2C1G-€6.95/Month](https://vps.hosting/?affid=1504)
 CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
 
 CloudCone：[2C2G-$35.88/Year](https://app.cloudcone.com.cn/vps/2/create?ref=11052&token=vps-2)   
+
 ---
 
-## 域名
+## 域名(Domain)
 NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
 
