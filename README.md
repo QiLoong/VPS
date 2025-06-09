@@ -3,12 +3,11 @@ https://qkk.one
 
 公众号：iChochy
 
-## 域名
-NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
-
 ## VPS推荐  
-### US VPS
-CloudCone：[1C1G-$1.8/Mouth](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
+### 美国
+CloudCone：[1C1G-$5.2/Mouth](https://app.cloudcone.com.cn/compute/create?ref=11052)  
+
+CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
 
 ### 泰国、印尼、菲律宾、马来西亚、亚太……
 Lightnode：[1C2G-$7.71/Month](https://www.lightnode.com/?inviteCode=JJI33F&promoteWay=LINK)   
@@ -32,7 +31,6 @@ CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=1105
 
 CloudCone：[2C2G-$35.88/Year](https://app.cloudcone.com.cn/vps/2/create?ref=11052&token=vps-2)
 
-## 圣诞节活动 US VPS
-CloudCone：[2C1G-$12.99/Year](https://app.cloudcone.com.cn/vps/349/create?ref=11052&token=xmas-24-ssd-vps-1)  
+## 域名
+NameSilo：[$1.99/Year](https://www.namesilo.com/?rid=285e694it)
 
-CloudCone：[3C2G-$21.99/Year](https://app.cloudcone.com.cn/vps/350/create?ref=11052&token=xmas-24-ssd-vps-2)
