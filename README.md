@@ -9,7 +9,7 @@ https://mleo.site
 CloudCone：[1C1G20G-$5.2/Month](https://app.cloudcone.com.cn/compute/create?ref=11052)   
 CloudCone：[1C2G40G-$7.28/Month](https://app.cloudcone.com.cn/compute/create?ref=11052)   
 
-### 美国(Yeas)
+### 美国(Year)
 CloudCone：[1C1G-$21.6/Year](https://app.cloudcone.com.cn/vps/1/create?ref=11052&token=vps-1)  
 CloudCone：[2C2G-$35.88/Year](https://app.cloudcone.com.cn/vps/2/create?ref=11052&token=vps-2)   
 
